@@ -42,13 +42,10 @@ The main objectives of this project are to:
 ## Project Structure
 
 ```
-DCIT407-Group21/
+DCIT407-Group21-Corner-Shape-Extraction/
 │
-├── final_project/
+├── notebook/
 │   └── DCIT407_Group21_Corner_Shape_Feature_Extraction.ipynb
-│
-├── individual_work/
-│   └── (member contributions)
 │
 └── images/
     └── sample images used for testing
